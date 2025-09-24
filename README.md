@@ -79,7 +79,7 @@ If you use this repository, please cite it as:
 ```bibtex
 @misc{uasn_mac_rl2023,
   title={Collision Avoidance MAC Protocol in Underwater Acoustic Sensor Network with Reinforcement Learning},
-  author={Your Name},
+  author={Misha Urooj Khan},
   year={2023},
   howpublished={\url{https://github.com/mishaurooj/Collision-Avoidance-MAC-Protocol-in-Underwater-Acoustic-Sensor-Network-with-Reinforcement-Learning/}}
 }
